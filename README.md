@@ -2,11 +2,10 @@
 ###🖐**Hi there Here is about me!**
 
 - 👋 Hi, I’m @natanieljoshe
-- 👀 I’m interested in full web development also have a dream to learn phyton,c++ and flutter
-- 🌱 I’m currently learning html,css,javascript
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me: email me, 
-                     [Youtube Channel](https://www.youtube.com/channel/UCo84MV0rs-VCFEr4zf6Cdaw)
+- 📌 I've used HTML, CSS, and JavaScript for web dev
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: natanieljoshe@gmail.com 
+  [Youtube Channel](https://www.youtube.com/@natanjournal/videos)
 
 <!---
 natanieljoshe/natanieljoshe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
