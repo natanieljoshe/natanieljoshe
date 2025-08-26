@@ -17,12 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Nataniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanieljoshe&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=natanieljoshe&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
 ### 📫 Contact Me
 - 📧 Email: **natanieljoshe@gmail.com**  
 - 📷 Instagram: [@natanjournal11](https://instagram.com/natanjournal11) | [@natanieljoshe](https://instagram.com/natanieljoshe)  
