@@ -25,6 +25,5 @@
 ---
 
 ### 🌟 Fun Fact
-- ☕ Coffee keeps me coding
 - 🎬 Love creating content & sharing my journey
 - 🧩 Always curious about new tech
